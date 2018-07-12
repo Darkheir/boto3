@@ -1,6 +1,6 @@
 .. _guide_configuration:
 
-Credentials
+Configuration
 ===========
 
 Boto can be configured in multiple ways. Regardless of the source or sources
